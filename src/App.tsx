@@ -32,7 +32,7 @@ function App() {
 
   return (
     <main className="min-h-screen bg-navy-900 text-white">
-      {<Navbar />*/}
+      {<Navbar />}
       {<Hero />}
       {<Services />}
       {<About />}
